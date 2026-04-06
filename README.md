@@ -1,6 +1,8 @@
-Not currently broken!
+Not currently broken! and it is being maintained!
 
-This is a set of program's that will run an Ai that you can talk to live and if you want it can run commands based around my own DSL, I coded a good bit of it myself but I also used AI to program some of it, also they have personal comments in them and are kind of hard to ready sorry.
+Note I had ai add piper but I was never able to certify that, that worked over other methods.
+
+This is a set of program's that will run an Ai that you can talk to live and if you want it can run commands based around my own DSL, I coded a good bit of it myself but I also used AI to program some of it, also they have personal comments in them and are kind of hard to ready sorry. Also this is intended to be fully useable offline, currently I updated it to use piper via ai but never tested it my self against the old version that use edge-tts, sorry but I believe it should work.
 
 Also I do not know fully how to do this legally but like I do not want this to be used commercailly as to profit money.
 
