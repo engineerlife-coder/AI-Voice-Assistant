@@ -11,3 +11,5 @@ How this works, you will need to get all the files and keep them within the same
 The miku file acts like miku and does not rely upon porcupine for wake words, unlike the navi file which does.
 
 Dependancies can be seen within its file.
+
+I made a new way better and working version but I have not yet uploaded it here yet for I do not know if more is even wanted.
