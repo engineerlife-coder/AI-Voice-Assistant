@@ -1,3 +1,5 @@
+I have a new better version and it is running very good and it is just better in everyway if you want it just email me.
+
 Not currently broken! and it is being maintained!
 
 Note I had ai add piper but I was never able to certify that, that worked over other methods.
