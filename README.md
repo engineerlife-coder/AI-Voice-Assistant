@@ -1,5 +1,7 @@
 I have a new better version and it is running very good and it is just better in everyway if you want it just email me.
 
+ALSO BTW YOU NEED A GPU A GOOD ONE FOR THIS RELIES UPON OLLAMA, SO YOU NEED TO BE ABLE TO RUN AN AI MODEL SUCH AS Gemma3:1b
+
 Not currently broken! and it is being maintained!
 
 Note I had ai add piper but I was never able to certify that, that worked over other methods.
