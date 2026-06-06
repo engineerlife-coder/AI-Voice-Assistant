@@ -13,3 +13,5 @@ The miku file acts like miku and does not rely upon porcupine for wake words, un
 Dependancies can be seen within its file.
 
 I made a new way better and working version but I have not yet uploaded it here yet for I do not know if more is even wanted.
+
+I have a new better version and it is running very good and it is just better in everyway if you want it just email me.
